@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* bacground color */
 body {
     background-color: #d9dcd6;
 }
 
+/* Header Bar color and format */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +17,16 @@ body {
     color: #ffffff;
 }
 
+/* SEON part of title logo */
+.header h1 .seo {
+    color: #d9dcd6;
+}
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/* SEON part of title logo */
-.header h1 .seo {
-    color: #d9dcd6;
-}
 
 .header div {
     padding-top: 15px;
@@ -103,7 +106,7 @@ p {
 
 
 /* right side blue box */
-.benefits {
+.right-side {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -115,19 +118,19 @@ p {
 }
 
 /* Aside bounding box */
-.benefit-lead {
+.right-side-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 /* Aside title font */
-.benefit-lead h3 {
+.right-sdie-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 /* Aside Icons */
-.benefit-lead img {
+.right-side-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
