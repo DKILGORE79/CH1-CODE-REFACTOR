@@ -12,7 +12,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage
 
-Open https://dkilgore79.github.io/CH1-CODE-REFACTOR/ in your default web browser on you desktop or mobile device.
+Open https://dkilgore79.github.io/ch1-code-refactor/ in your default web browser on you desktop or mobile device.
 
 Snapshot of website
     ./assets/images/snapshot.png
