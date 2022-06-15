@@ -1,30 +1,47 @@
-# <Horiseon Code refactor>
+
+# Horiseon Code Refactor
 
 ## Description
 
-Horiseon Marketing wanted their website optimized following accessibility standards to be flexible for all users. I refactored the code using HTML semantic markup elements to achieve maximum optimization for users, screen readers, and search engines.
+This project is a code refactor for the Horiseon website homepage. The purposes of this refactoring is to make the companies website efficient and accessible. This refactoring should also result in improved search engine optimization. The modification does not change the displayed styling of the page.
 
+
+## Tasks completed
+    -Redundant classes were consolidated
+    -Semantic HTML elements added
+    -Alt text was added to images
+    -Explanatory comments were provided in the HTML document
+    -CSS was reorganized to follow a logical structure
+    -Comments added to the CSS file
+    -A descriptive title was added
+
+
+## Links
+
+github account https://github.com/DKILGORE79/ch1-code-refactor
+
+https://dkilgore79.github.io/ch1-code-refactor/
 
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+not applicable
+
 
 ## Usage
 
-Open https://dkilgore79.github.io/ch1-code-refactor/ in your default web browser on you desktop or mobile device.
+Once deployed the application can be viewed in a traditional desktop web browser.
 
-Snapshot of website
-    ./assets/images/snapshot.png
 
+![](assets%5Cimages%5Csnapshot.png)
 
 ## Credits
 
-
-https://www.w3schools.com/html/html5_semantic_elements.asp
-https://developer.mozilla.org/en-US/docs/Web/HTML
-https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
-https://blog.hubspot.com/marketing/jump-link-same-page
+tutorials and recourses used
+ - https://www.w3schools.com/html/html5_semantic_elements.asp
+ - https://developer.mozilla.org/en-US/docs/Web/HTML
+ - https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+ - https://blog.hubspot.com/marketing/jump-link-same-page
 
 ## License
 
@@ -52,10 +69,3 @@ SOFTWARE.
 
 ---
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
