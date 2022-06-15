@@ -33,7 +33,7 @@ not applicable
 Once deployed the application can be viewed in a traditional desktop web browser.
 
 
-![](assets%5Cimages%5Csnapshot.png)
+![snapshot](./assets/images/snapshot.png)
 
 ## Credits
 
